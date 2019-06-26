@@ -105,7 +105,9 @@ QETApp::QETApp() :
 	}
 	
 	buildSystemTrayMenu();
-	m_splash_screen -> hide();
+    if (m_splash_screen) {
+        m_splash_screen -> hide();
+    }
 	
 	checkBackupFiles();
 }
