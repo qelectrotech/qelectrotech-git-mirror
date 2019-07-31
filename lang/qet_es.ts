@@ -356,7 +356,7 @@
     <message>
         <location filename="../sources/autoNum/ui/autonumberingdockwidget.cpp" line="132"/>
         <source>Ctrl+Shift+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+P</translation>
     </message>
 </context>
 <context>
@@ -5939,7 +5939,8 @@ Visita https://download.tuxfamily.org/qet/builds/dxf_to_elmt/
 
 &gt;&gt; Instalar en Linux
 Poner DXFtoQET binary on your /home/user_name/.qet/ directory
-hazlo ejecutable : chmod +x ./DXFtoQET</translation>
+hazlo ejecutable : chmod +x ./DXFtoQET
+</translation>
     </message>
     <message>
         <location filename="../sources/editor/qetelementeditor.cpp" line="297"/>
@@ -7317,7 +7318,7 @@ Que désirez vous faire ?</source>
     <message>
         <location filename="../sources/qet.cpp" line="640"/>
         <source>Envoie en arrière plan la ou les sélections</source>
-        <translation>Enviar a el fondo la (s) selección (es).</translation>
+        <translation>Enviar en segundo plano las selecciones</translation>
     </message>
     <message>
         <location filename="../sources/qet.cpp" line="642"/>
