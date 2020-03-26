@@ -355,7 +355,7 @@
     <message>
         <location filename="../sources/autoNum/ui/autonumberingdockwidget.cpp" line="132"/>
         <source>Ctrl+Shift+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shit+P</translation>
     </message>
 </context>
 <context>
@@ -497,7 +497,7 @@ Nota: queste opzioni non consentono attivare o disattivare la numerazione automa
         <source>px</source>
         <comment>pixel</comment>
         <extracomment>pixel</extracomment>
-        <translation>px</translation>
+        <translation> px</translation>
     </message>
     <message>
         <location filename="../sources/ui/borderpropertieswidget.ui" line="29"/>
